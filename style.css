@@ -9,3 +9,12 @@
 .student-owner > input{
     border: solid lightblue 3px;
 }
+
+.student-contributor {
+    width: 50%;
+    background-color: darkkhaki;
+}
+
+.student-contributor > p {
+    padding: 20px;
+}
