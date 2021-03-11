@@ -1,0 +1,11 @@
+.student-owner{
+    border: solid blue 5px;
+}
+
+.student-owner > h1{
+    color: aqua;
+}
+
+.student-owner > input{
+    border: solid lightblue 3px;
+}
